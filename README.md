@@ -2,8 +2,6 @@
 
 
 
-
-- 🌱 I’m currently learning **React & AI**
 - 📫 How to reach me **kellilnaoufel@gmail.com**
 
 
